@@ -23,3 +23,5 @@ Please install the following Python packages through `pip install` or `conda ins
 * `matplotlib`
 * `seaborn`
 * `ruptures`
+
+## Part 1 deliverables (plots and write-ups) are found in the folder `Part 1`
