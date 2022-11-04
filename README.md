@@ -15,6 +15,7 @@ This first iteration of the final project will consist of a common analysis: "Ho
 ## Data & Project Considerations 
 * This project is conducted only for King County, WA. Data should be subsetted accordingly.
 * When getting case values from the John Hopkins University data, the case value should be by each day and represent the cumulative number of cases. In some instances, a more recent date will have a lower number of cases from a previous date, these dates were corrected using linear interpolation (as shown in the notebook).
+* The mask mandate policy stopped tracking on 08/15/2021. This may not reflect the true instance when the mask mandate ended in a specific county.
 
 ### Python Packages
 Please install the following Python packages through `pip install` or `conda install`
