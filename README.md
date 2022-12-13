@@ -16,6 +16,15 @@ implications in policy prevention strategies for the community and insight for p
 health officials to make informed decisions in their response to COVID as well as
 influence the behaviors or decisions individuals make for the benefit of their health.
 
+With this model, we hope to answer the following questions:
+How does the introduction of vaccines affect behaviors of COVID-19 disease dynamics in King County, WA during the COVID-19 epidemic from February 2020 to October 2021? 
+Does adding a masking proportion rate lower the rate at which individuals become infected?
+
+We hypothesize that: 
+The introduction of a vaccine with vaccination of at least 30% of the population, initially, will decrease the disease death rate by at least 2%.
+Adding a masking proportion of at least 40% of the population will slow the spread of the disease by about 10 days. 
+
+
 
 ## Datasets
 ### Input Files
